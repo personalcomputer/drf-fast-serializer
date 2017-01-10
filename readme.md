@@ -1,7 +1,7 @@
-Fast serializer implementation for Django rest framework
+Fast serializer implementation for Django REST framework
 ========================================================
 
-This package implements a `FastSerializerMixin` for Django rest framework.
+This package implements a `FastSerializerMixin` for Django REST framework.
 
 This project requires usage of the upcoming 3.0 or later version of DRF.
 Compared to normal serializer this package gives around 2x speedup, and
